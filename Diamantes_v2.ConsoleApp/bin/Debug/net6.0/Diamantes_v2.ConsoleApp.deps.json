@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Diamantes_v2.ConsoleApp/1.0.0": {
+        "runtime": {
+          "Diamantes_v2.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diamantes_v2.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\Diamantes_v2.ConsoleApp.exe
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\Diamantes_v2.ConsoleApp.deps.json
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\Diamantes_v2.ConsoleApp.runtimeconfig.json
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\Diamantes_v2.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\ref\Diamantes_v2.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\bin\Debug\net6.0\Diamantes_v2.ConsoleApp.pdb
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.AssemblyInfo.cs
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\ref\Diamantes_v2.ConsoleApp.dll
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.pdb
+C:\Users\danie\source\repos\Diamantes_v2\Diamantes_v2.ConsoleApp\obj\Debug\net6.0\Diamantes_v2.ConsoleApp.genruntimeconfig.cache
